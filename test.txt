@@ -1,2 +1,2 @@
-creating git branch is quick 
+creating git branch is quick & simple 
 test 
